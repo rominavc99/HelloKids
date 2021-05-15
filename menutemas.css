@@ -7,7 +7,7 @@ body {
 	color: #999;
 }
 
-.comida{
+.profesiones{
  
  position:absolute;
  right:82%; 
@@ -15,7 +15,7 @@ body {
  height: 298px;
  top:300px; 
  border-radius:55px;
- background-image:url(images/Comida.png);
+ background-image:url(images/profesiones.png);
 
 }
 .familia{
@@ -38,7 +38,7 @@ body {
 	height: 298px;
 	top:300px; 
 	border-radius:55px;
-	background-image:url(images/animales.png);
+	background-image:url(images/frutas.png);
    
 }
 .animales{
@@ -60,6 +60,6 @@ body {
 	height: 298px;
 	top:300px; 
 	border-radius:55px;
-	background-image:url(images/animales.png);
+	background-image:url(images/ropa.png);
    
 }
