@@ -15,7 +15,7 @@ body {
  height: 298px;
  top:300px; 
  border-radius:55px;
- background-image:url(images/profesiones.png);
+ background-image:url(images/profesiones1.png);
 
 }
 .familia{
@@ -38,7 +38,7 @@ body {
 	height: 298px;
 	top:300px; 
 	border-radius:55px;
-	background-image:url(images/frutas.png);
+	background-image:url(images/FRUTA.png);
    
 }
 .animales{
@@ -60,6 +60,6 @@ body {
 	height: 298px;
 	top:300px; 
 	border-radius:55px;
-	background-image:url(images/ropa.png);
+	background-image:url(images/ROPA1.png);
    
 }
