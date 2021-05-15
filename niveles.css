@@ -1,0 +1,62 @@
+body {
+	font-family: 'Arial', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	background: #264653;
+	color: #999;
+}
+
+.select-level {
+    position: relative;
+	z-index: 2;
+	width: 65%;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-top: 6rem;
+}
+
+.select-level h1 {
+	font-weight: 700;
+	font-size: 2.2rem;
+	line-height: 1.1;
+	margin: 0 0 2rem;
+
+}
+
+.principiante{
+ 
+	position:absolute;
+	right:62%; 
+	width:257px; 
+	height: 298px;
+	top:300px; 
+	border-radius:55px;
+	background-image:url(images/principiante.png);
+	
+   
+}
+.intermedio{
+ 
+	position:absolute;
+	right:42.5%; 
+	width:257px; 
+	height: 298px;
+	top:300px; 
+	border-radius:55px;
+	background-image:url(images/intermedio.png);
+   
+}
+.avanzado{
+ 
+	position:absolute;
+	right:23%; 
+	width:257px; 
+	height: 298px;
+	top:300px; 
+	border-radius:55px;
+	background-image:url(images/avanzado.png);
+   
+}
