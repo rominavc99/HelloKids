@@ -1,0 +1,65 @@
+
+
+body {
+	font-family: 'Arial', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	background: #264653;
+	color: #999;
+}
+
+.comida{
+ 
+ position:absolute;
+ right:82%; 
+ width:257px; 
+ height: 298px;
+ top:300px; 
+ border-radius:55px;
+ background-image:url(images/Comida.png);
+
+}
+.familia{
+ 
+	position:absolute;
+	right:62%; 
+	width:257px; 
+	height: 298px;
+	top:300px; 
+	border-radius:55px;
+	background-image:url(images/familia.png);
+	
+   
+}
+.frutas{
+ 
+	position:absolute;
+	right:42.5%; 
+	width:257px; 
+	height: 298px;
+	top:300px; 
+	border-radius:55px;
+	background-image:url(images/animales.png);
+   
+}
+.animales{
+ 
+	position:absolute;
+	right:23%; 
+	width:257px; 
+	height: 298px;
+	top:300px; 
+	border-radius:55px;
+	background-image:url(images/animales.png);
+   
+}
+.ropa{
+ 
+	position:absolute;
+	right:3%; 
+	width:257px; 
+	height: 298px;
+	top:300px; 
+	border-radius:55px;
+	background-image:url(images/animales.png);
+   
+}
